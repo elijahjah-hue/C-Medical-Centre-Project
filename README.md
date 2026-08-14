@@ -6,25 +6,16 @@ Collaborated with a university group to develop a database in C for a local medi
 
 ## How to Run This Project
 
-### 🚀 Run Instantly in Your Browser (Recommended)
+### Run Instantly in Your Browser
 You do not need to download or install anything to test this application. 
-1. Click the **Run on Replit** badge at the top of this page.
-2. Once the environment loads, click the green **Run** button at the top of the screen.
-3. The program will compile automatically and run directly in the built-in browser terminal.
-
-### 💻 Run Locally (Advanced)
-If you prefer to download the repository and run it on your own machine:
-
-1. **Prerequisites:** Ensure you have a C compiler (`gcc`) and `make` installed on your operating system.
-2. Open your terminal or command prompt.
-3. Navigate to the project directory:
-   ```bash
-   cd path/to/C-Medical-Centre-Project-main
-   ```
-4. Compile the project files using the layout configured in the makefile:
+1. **Log into Github**
+2. **Launch the Environment:** Click the green **`<> Code`** button, select the **Codespaces** tab, and click **Create codespace on main**).
+3. **Wait for Load:** Allow a few moments for the cloud container and browser terminal panel to finish loading at the bottom.
+4. **Compile the Code:** In the terminal panel, type the following command and press **Enter**:
    ```bash
    make
    ```
-5. Run the generated executable:
-   * **Mac / Linux:** `./main`
-   * **Windows:** `main.exe`
+5. **Run the Application:** Once compiled, launch the executable by typing this command and pressing **Enter**:
+   ```bash
+   ./securevault
+   ```
