@@ -1,7 +1,5 @@
 # C Medical Centre Project
 
-[![Run on Replit](https://shields.io)] (https://replit.com/join#t=rfbqyfohcwzesix-elijahjah)
-
 Collaborated with a university group to develop a database in C for a local medical centre to organise and store files, applying C programming skills, data structuring, and collaborative development to a medical scenario.
 
 ## How to Run This Project
